@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/gen_QR"
+        android:icon="@drawable/qr_24"
+        android:title="Generuj QR"/>
+
+    <item
+        android:id="@+id/scan_box"
+        android:icon="@drawable/aparat"
+        android:title="Skanuj box" />
+
+
+
+
+
+
+</menu>
