@@ -17,4 +17,3 @@ eBox is perfect for anyone who stores numerous items in boxes—whether at home,
 This app was my own project, developed as a final assignment for my study course. The project covered both backend and frontend development, utilizing technologies such as **Firebase** and **QR code scanning**.  
 
 ---
-Made with ❤️ by Dawid
